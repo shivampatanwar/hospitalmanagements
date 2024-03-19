@@ -1,0 +1,10 @@
+
+main{
+    width: 100vw;
+    height: 85vh;
+    /* background-image: url("https://www.appletechsoft.com/wp-content/uploads/2020/06/Hospital-Management-System.jpg"); */
+
+    background-repeat: no-repeat;
+    background-size: 100vw 85vh;
+
+}
